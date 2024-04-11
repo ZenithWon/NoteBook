@@ -313,7 +313,7 @@ MySQL5.5之前，MyISAM是默认引擎，之后就是InnoDB了，二者区别如
 
 ###### 索引底层的数据结构（B+树）
 
-<img src="C:\Users\wangzhan\AppData\Roaming\Typora\typora-user-images\image-20240118171104728.png" alt="image-20240118171104728" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/ZenithWon/figure/master/202404112111758.png" alt="image-20240118171104728" style="zoom:50%;" />
 
 相比于B树来说：
 
